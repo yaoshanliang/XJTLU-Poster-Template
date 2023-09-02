@@ -3,11 +3,6 @@
     <h1><b>XJTLU Poster Template</b></h1>
 </div>
 
-<div align="center">
-    <img class="aligncenter" src="images/template.jpg"/>
-</div>
-<br/>
-
 <!-- Badges -->
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/yaoshanliang/XJTLU-Poster-Template)
@@ -21,6 +16,7 @@
 <p align="center">
     <a href="#what is it?">What is it?</a> •
     <a href="#usage">Usage</a> •
+    <a href="#example">Example</a>
 </p>
 
 <!-- Sections -->
@@ -36,3 +32,8 @@ Copy or download the project, and then modify the latex content.
   
 - <b>Github:</b> https://github.com/yaoshanliang/XJTLU-Poster-Template
 
+## Example
+
+<div align="center">
+    <img class="aligncenter" src="images/template.jpg"/>
+</div>
