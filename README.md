@@ -28,7 +28,7 @@ This project aims to create a poster template for the Xi'an Jiaotong-Liverpool U
 
 Copy or download the project, and then modify the latex content.
 
-- <b>Overleaf:</b> https://www.overleaf.com/latex/templates/XJTLU-Poster-template/sfrvnnpcsmgh
+- <b>Overleaf:</b> https://www.overleaf.com/latex/templates/XJTLU-Poster-template/jftxgnqrpxps
   
 - <b>Github:</b> https://github.com/yaoshanliang/XJTLU-Poster-Template
 
